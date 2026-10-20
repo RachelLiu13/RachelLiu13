@@ -6,7 +6,7 @@
 
 ### Finance & Applied Analytics
 
-M.S. Business Analytics candidate at **UCLA Anderson School of Management**.<br>
+M.S. Business Analytics student at **UCLA Anderson School of Management**.<br>
 I build forecasting models, decision tools and AI products — and check that they actually work.
 
 <img src="https://img.shields.io/badge/UCLA_Anderson-MSBA-2774AE?style=flat-square&labelColor=FFD100" alt="UCLA Anderson MSBA">
